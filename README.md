@@ -1,4 +1,4 @@
-# math5473_mini project
+# MATH5473 mini project
 
 #### cd frontend
 #### npm install
